@@ -1,0 +1,37 @@
+ /* Comentario en CSS */
+ .encabezado {
+    /*Tamaño de fuente*/
+    font-size: 72px;
+    /*Color de la fuente*/
+    color: rgb(60, 197, 202);
+    background-color: rgb(128, 255, 0);
+    /*Nos permite alinear el texto*/
+    text-align: center;
+    text-transform: uppercase;
+}
+body {
+    background-color: darkgrey;
+}
+
+
+#texto {
+    color: rgb(72, 6, 253);
+    background-color: rgb(230, 204, 204);
+    font-size: 24px;
+    font-style: italic;
+}
+
+.texto {
+    color: white;
+    background-color: black;
+}
+
+p {
+     color: rgb(255, 255, 255);
+     background-color: dimgray;
+ }
+
+ p {
+     color: yellow;
+     background-color: teal;
+ }

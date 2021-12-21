@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(47, 131, 65);
+}
+
+#encabezado {
+    font-size: 38px;
+}
+
+.italica {
+    color: white;
+    font-style: italic;
+}
+
+.naranja {
+    color: orange;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.rojo {
+    color: rgb(214, 14, 81);
+    font-size: 18px;
+}
+
+.amarillo {
+    color: rgb(214, 236, 112);
+    font-size: 18px;
+}
+

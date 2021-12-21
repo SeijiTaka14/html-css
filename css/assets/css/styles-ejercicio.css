@@ -1,0 +1,30 @@
+body {
+    background-color: powderblue;
+}
+
+#encabezado {
+    text-align: right;
+    color: red;
+}
+
+.naranja {
+    color: rgb(255, 102, 0);
+    font-weight: bold;
+    
+}
+
+.amarillo {
+    color: orange;
+}
+
+.blanco-verde {
+    background-color: white;
+    color: green;
+    font-style: italic;
+}
+
+.informacion {
+    text-align: center;
+    font-size: 14px;
+    font-style: italic;
+}

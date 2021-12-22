@@ -1,0 +1,112 @@
+.datos-comprador {
+    background-color: green;
+    width: 450px;
+    height: 450px;
+    margin-top: 100px;
+    margin-left: 400px;
+    border: solid rgb(176,196,222) 12px;
+    border-radius: 5px;
+}
+
+.sub-datoscomprador {
+    color: white;
+    margin-left: 40px;
+}
+
+.nombreycaja {
+    margin-left: 100px;
+}
+
+#nombre {
+    color: white;
+    margin-right: 10px;
+}
+
+#nombre-caja {
+    border: solid red 2px;
+    width: 250px;
+}
+
+.emailycaja {
+    margin-left: 100px;
+}
+
+#email {
+    color: white;
+}
+
+#email-caja {
+    border: solid red 2px;
+    margin-left: 23px;
+    width: 250px;
+}
+
+.telefonoycaja {
+    margin-left: 100px;
+}
+
+#telefono {
+    color: white;
+}
+
+#telefono-caja {
+    border: solid red 2px;
+    margin-left: 6px;
+    width: 250px;
+}
+
+.paisycaja {
+    margin-left: 100px;
+}
+
+#pais {
+    color: white;
+}
+
+#pais-caja {
+    border: solid red 2px;
+    margin-left: 34px;
+    width: 250px;
+}
+
+.sub-datostarjeta {
+    color: white;
+    margin-left: 40px;
+}
+
+.numeroycaja {
+    margin-left: 100px;
+}
+
+#numero {
+    color: white;
+    margin-right: 10px;
+}
+
+#numero-caja {
+    border: solid red 2px;
+    width: 250px;
+}
+
+.nombreycaja2 {
+    margin-left: 100px;
+}
+
+#nombre2 {
+    color: white;
+    margin-right: 16px;
+}
+
+#nombre2-caja {
+    border: solid red 2px;
+    width: 250px;
+}
+
+.raya {
+    color: white;
+    margin-left: 15px;
+}
+
+.enviar {
+    margin-left: 30px;
+}
